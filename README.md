@@ -1,5 +1,5 @@
 # locallibrary
-Complete rewrite of local library website on MDN - https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django/Tutorial_local_library_website
+Complete rewrite of local library website on MDN - https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django/Tutorial_local_library_website with the aim of turning it into an API using DRF complete with authentication and authorization.
 
 
 Description
@@ -15,6 +15,7 @@ Addition
       -Write Tests for the API(I hate doing this :) )
       -Learn how to document APIs by documenting this one
       -Deploy to Heroku or AWS with a managed Postgred instance or consider containers
+      -Build the React Front-end when done with the API
       
 Possible Improvements(Once I know how to do it)
 
