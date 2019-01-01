@@ -8,7 +8,7 @@ Description
 
 Addition
 
-      -Include some aspects of AI -maybe text anlytics for the library description
+      -Include some aspects of AI -maybe text anlytics for the book description
       -Include authentication and authorization using jwt. Users should be able to sign up with their emails, use gmail account or their facebook accounts 
       -Extend the user model to include library members and library admins
       -Include email registration and verification for library members
